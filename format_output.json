@@ -1,0 +1,66 @@
+{
+  "title": "",
+  "doi": "",
+  "link": "",
+  "year": "number",
+  "authors": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "topics": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "participant_N": "number",
+  "tests": [
+    {
+      "test_name": "",
+      "N": "number",
+      "p-value": "number",
+      "effectsize": {
+        "effectsize_measure": "",
+        "value": "number",
+        "CI": {
+          "lower": "number",
+          "upper": "number",
+          "CI_type": "number"
+        }
+      }
+    },
+    {
+      "test_name": "",
+      "participant_N": [
+        "number"
+      ],
+      "factors": [
+        {
+          "name": "vllt auch weglassen",
+          "p-value": [
+            "number"
+          ],
+          "effectsize": {
+            "effectsize_measure": "",
+            "value": [
+              "number"
+            ],
+            "CI": {
+              "lower": [
+                "number"
+              ],
+              "upper": [
+                "number"
+              ],
+              "CI_type": [
+                "number"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
